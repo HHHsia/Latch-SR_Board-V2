@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations,,,,,,,,,,
+D:\RIS\RIScontrolboardlayout\0411v6\28GHz_CB & LED Layout\400CB\LED_T\Pick Place for PCB1.csv,,,,,,,,,,
+,,,,,,,,,,
+========================================================================================================================,,,,,,,,,,
+File Design Information:,,,,,,,,,,
+,,,,,,,,,,
+Date:       19/05/23,,,,,,,,,,
+Time:       13:45,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,
+Variant:    No variations,,,,,,,,,,
+Units used: mm,,,,,,,,,,
+,,,,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description,,,
+CB_Connector4,FPC (20PIN),TopLayer,FPC(20PIN)_B,152.9425,59.8235,360,,,100,10
+CB_Connector3,FPC (20PIN),TopLayer,FPC(20PIN)_B,63.3875,59.8085,360,,,10,10
+CB_Connector2,FPC (20PIN),TopLayer,FPC(20PIN)_B,131.369,66.5285,360,,,80,20
+CB_Connector1,FPC (20PIN),TopLayer,FPC(20PIN)_B,80.6795,66.3005,360,,,30,20
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,4,2,1,3,,,,,
